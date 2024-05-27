@@ -22,6 +22,7 @@ body {
 }
 nav{
 	width:200px;
+	min-width: 200px;
 	height:500px;
 	margin-bottom: 20px;
 	margin-left: 80px;
